@@ -15,7 +15,7 @@
   <Category>Downloaders:</Category>
   <WebUI>http://[IP]:[PORT:8080]</WebUI>
   <TemplateURL>https://raw.githubusercontent.com/linuxserver/templates/master/unraid/qbittorrent.xml</TemplateURL>
-  <Icon>https://github.com/xiaobao1980/unraid/blob/master/images/qBittorrent.png</Icon>
+  <Icon>https://raw.githubusercontent.com/xiaobao1980/unraid/refs/heads/master/images/qBittorrent.png</Icon>
   <ExtraParams>--cap-add=NET_ADMIN</ExtraParams>
   <PostArgs/>
   <CPUset/>
