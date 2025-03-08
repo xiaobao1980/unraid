@@ -6,12 +6,12 @@
   <Name>Qbittorrent</Name>
   <Description>
     [b][u][span style='color: #E80000;']应用介绍[/span][/u][/b][br]
-    NasTools 是一个 NAS 媒体库资源归集整理工具。[br][br]
+    qBittorrent 下载工具。[br][br]
     [b][u][span style='color: #E80000;']文档介绍[/span][/u][/b][br]
-    https://github.com/jxxghp/nas-tools/wiki[br][br]
+    https://github.com/SuperNG6/docker-qbittorrent[br][br]
   </Description>
   <Overview>
-    NasTools 是一个 NAS 媒体库资源归集整理工具。
+    qBittorrent 中国优化版。
   </Overview>
   <Support>http://lime-technology.com/forum/index.php?topic=45838.0</Support>
   <Registry>https://hub.docker.com/r/superng6/qbittorrent</Registry>
